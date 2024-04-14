@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hoàng Hải</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from VietNam</h3>
 
-- ✍I'm a student of: [Ho Chi Minh City University of Technology](Ho Chi Minh City University of Technology)
+- ✍I'm a student of: Ho Chi Minh City University of Technology (Hutech)
 
 - 📍Address: **Bien Hoa City, Dong Nai Province**
 
