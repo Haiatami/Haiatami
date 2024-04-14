@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm 5141 - Tạ Hoàng Hải</h1>
-<h3 align="center">A passionate Backend developer from VietNam</h3>
 
 - ✍I'm a student of: Ho Chi Minh City University of Technology (Hutech)
 
